@@ -112,7 +112,7 @@ air-drawing-app/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone https://github.com/lamanami/air-drawing-app.git
 ```
 
 ### 2. Move into the project folder
