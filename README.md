@@ -217,7 +217,7 @@ Possible future improvements include:
 
 Watch Air Doodle Studio in action:
 
-[▶️ Watch the demo video](demo/air_doodle_demo.mp4)
+[▶️ Watch the demo video](https://github.com/user-attachments/assets/a9df800b-47d9-419a-adb7-53ce5f230cec)
 
 ---
 
